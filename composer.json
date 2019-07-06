@@ -1,0 +1,17 @@
+{
+    "name": "j4wx/simple-namespace-finder",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jamie Wood",
+            "email": "jamie@pixelbeard.co"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "J4Wx\\SimpleNamespaceFinder\\": "src/"
+        }
+    }
+}
